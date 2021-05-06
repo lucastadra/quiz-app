@@ -55,7 +55,7 @@ const questions = [
             { answerText: 'Hidrofílica, parte apolar, com o grupo fosfato e hidrofóbica, parte polar, com as cadeias de hidrocarbonetos', isCorrect: false },
             { answerText: 'Hidrofílica, parte polar, com o grupo fosfato e hidrofóbica, parte apolar, com os aminoácidos', isCorrect: false },
             { answerText: 'Hidrofílica, parte polar, com o grupo fosfato e hidrofóbica, parte apolar, com os aminoácidos', isCorrect: true },
-            { answerText: 'e)Hidrofílica, parte apolar, com o radical hidroxila e hidrofóbica, parte polar, com carboidratos incorporados', isCorrect: false },
+            { answerText: 'Hidrofílica, parte apolar, com o radical hidroxila e hidrofóbica, parte polar, com carboidratos incorporados', isCorrect: false },
         ],
     },
     {
