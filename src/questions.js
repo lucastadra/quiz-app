@@ -10,6 +10,8 @@ const questions = [
             { answerText: 'Os fosfolipídios possuem uma região hidrofílica, que fica voltado para o meio não aquoso.', isCorrect: false },
             { answerText: 'O colesterol é um lipídio presente na Membrana Plasmática das células vegetais e animais', isCorrect: false },
         ],
+        answered: false
+
     },
     {
         questionText: '2 - Qual o revestimento que as células animais possuem que auxilia na adesão e nas respostas a corpos estranhos, como as células de um órgão transplantado?',
@@ -22,6 +24,7 @@ const questions = [
             { answerText: 'Microvilosidades', isCorrect: false },
             { answerText: 'Desmossomos', isCorrect: false },
         ],
+        answered: false
     },
     {
         questionText: '3 - Marque a alternativa que não apresenta função na membrana plasmática:',
@@ -34,6 +37,8 @@ const questions = [
             { answerText: 'Reconhecimento de substâncias', isCorrect: false },
             { answerText: 'Proteção das estruturas internas da célula', isCorrect: false },
         ],
+        answered: false
+
     },
     {
         questionText: '4 - A membrana plasmática é composta por vários componentes. Identifique qual componente não faz parte dela:',
@@ -45,6 +50,8 @@ const questions = [
             { answerText: 'Proteínas', isCorrect: false },
             { answerText: 'Citosol ', isCorrect: true },
         ],
+        answered: false
+
     },
     {
         questionText: '5 - Sobre as moléculas anfipáticas presente na membrana, marque a alternativa correta:',
@@ -57,6 +64,8 @@ const questions = [
             { answerText: 'Hidrofílica, parte polar, com o grupo fosfato e hidrofóbica, parte apolar, com as “caudas” longas de ácidos graxos', isCorrect: true },
             { answerText: 'Hidrofílica, parte apolar, com o radical hidroxila e hidrofóbica, parte polar, com carboidratos incorporados', isCorrect: false },
         ],
+        answered: false
+
     },
     {
         questionText: '6 - Assim como os lipídios, as proteínas também podem girar em torno de seus próprios eixos e se deslocar lateralmente no plano da dupla camada. Qual o nome dado a essa propriedade dinâmica das membranas?',
@@ -69,6 +78,8 @@ const questions = [
             { answerText: 'Modelo iceberg', isCorrect: false },
             { answerText: 'Modelo do mosaico fluido', isCorrect: true },
         ],
+        answered: false
+
     },
     {
         questionText: '7 - Indique corretamente os nomes das moléculas abaixo:',
@@ -80,6 +91,8 @@ const questions = [
             { answerText: '1- Carboidrato; 2- lipídio; 3- proteína', isCorrect: true },
             { answerText: '1- Aminoácido; 2- carboidrato; 3- proteína', isCorrect: false },
         ],
+        answered: false
+
     },
     {
         questionText: '8 - O transporte de substâncias pela membrana plasmática pode ser ativo ou passivo. Todos os exemplos a seguir são de transporte passivo, exceto:',
@@ -90,6 +103,8 @@ const questions = [
             { answerText: 'Difusão facilitada', isCorrect: false },
             { answerText: 'Difusão simples', isCorrect: false },
         ],
+        answered: false
+
     },
 ];
 
