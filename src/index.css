@@ -185,11 +185,13 @@ button:focus {
 
 .answer-select-section button:first-of-type {
   width: 100%;
+  max-width: 450px;
 }
 
 #try_again {
   margin-top: 18px;
   width: 100%;
+  max-width: 450px;
 }
 
 @media (max-width: 700px) { 
@@ -207,7 +209,7 @@ button:focus {
     width: 90%;
     margin: 0 auto;
   }
-  
+
   #root {
     height: 100%;
     width: 90%;
